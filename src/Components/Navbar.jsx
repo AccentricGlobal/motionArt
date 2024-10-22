@@ -14,7 +14,7 @@ export default function Navbar() {
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav ms-auto">
                             <li className="nav-item ">
-                                <Link className="nav-link btn-lg buy-button" to="#">Buy Now</Link>
+                                <Link className="nav-link btn-lg buy-button" to="https://codecanyon.net/checkout/105095130/create_account?_ga=2.63492390.805683577.1728650538-371489464.1728650538">Buy Now</Link>
                             </li>
                         </ul>
                     </div>
