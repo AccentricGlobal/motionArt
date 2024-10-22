@@ -95,7 +95,7 @@ export default function Home() {
                 <div className='footer row p-3 selectable'>
                     <div className='grey-white-color col-lg-8 col-sm-12 my-2'>© 2024 Copywrite. All rights reserved by QodeMatrix Created by Accentric Global</div>
                     <div className='col-lg-4 col-sm-12 row'>
-                        <div className='grey-text col-lg-6'>Documentation</div>
+                        <div className='grey-text col-lg-6'>Documentations</div>
                         <div className='grey-text col-lg-6'>Support</div>
                     </div>
                 </div>
